@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MRB_Pokedex/static/css/main.0d651481.chunk.css",
+    "main.js": "/MRB_Pokedex/static/js/main.9b87a494.chunk.js",
+    "main.js.map": "/MRB_Pokedex/static/js/main.9b87a494.chunk.js.map",
+    "runtime-main.js": "/MRB_Pokedex/static/js/runtime-main.b14fa32f.js",
+    "runtime-main.js.map": "/MRB_Pokedex/static/js/runtime-main.b14fa32f.js.map",
+    "static/js/2.551815f8.chunk.js": "/MRB_Pokedex/static/js/2.551815f8.chunk.js",
+    "static/js/2.551815f8.chunk.js.map": "/MRB_Pokedex/static/js/2.551815f8.chunk.js.map",
+    "index.html": "/MRB_Pokedex/index.html",
+    "precache-manifest.239f16696ac076e638ef4fd81b24ddbc.js": "/MRB_Pokedex/precache-manifest.239f16696ac076e638ef4fd81b24ddbc.js",
+    "service-worker.js": "/MRB_Pokedex/service-worker.js",
+    "static/css/main.0d651481.chunk.css.map": "/MRB_Pokedex/static/css/main.0d651481.chunk.css.map",
+    "static/js/2.551815f8.chunk.js.LICENSE.txt": "/MRB_Pokedex/static/js/2.551815f8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b14fa32f.js",
+    "static/js/2.551815f8.chunk.js",
+    "static/css/main.0d651481.chunk.css",
+    "static/js/main.9b87a494.chunk.js"
+  ]
+}
